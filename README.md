@@ -6,7 +6,7 @@ We’re thrilled to introduce AgriHub, your new go-to platform designed to make 
 ## Creators
 - [Siddharth M](https://github.com/Siddharth-magesh)
 - Pranesh Kumar
-- Arjun VL
+- Arjun V L
 - Waatson
 
 ![AgriHub Main Page](https://github.com/Siddharth-magesh/Agri-Hub/blob/main/static/images/Home%20Page.png)
